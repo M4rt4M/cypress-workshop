@@ -25,6 +25,10 @@ Cypress binary version: 9.5.4
 Electron version: 15.3.5
 Bundled Node version: 16.5.0
 ```
+If there is an error about cypress not being there, run
+```
+npm install cypress --save-dev
+```
 
 ### Starting the Application
 

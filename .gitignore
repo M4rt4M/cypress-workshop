@@ -1,0 +1,10 @@
+/node_modules/
+
+cypress/results/*
+cypress/reports/*
+cypress/screenshots/*
+cypress/videos/*
+
+.idea/
+
+/docs/~$Automated User Interface Testing.pptx

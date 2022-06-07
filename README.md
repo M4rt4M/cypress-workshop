@@ -67,3 +67,8 @@ Head over to [**task-one.spec.js**](cypress/integration/practice/task-one.spec.j
 If there's any tests that will require a specific cypress command then I've added them as comments within the tests with a link to the docs but for any other issues, just ask for help. 
 
 There's some commands that you will be using frequently and I've added a list of these, along with a description and link to the docs, which can be found in [**common-cy-commands.md**](common-cy-commands.md).
+
+### To see it blast through the tests
+```
+yarn cypress:open 
+``` 

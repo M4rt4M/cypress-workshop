@@ -18,7 +18,7 @@ Open the terminal/command line and run `yarn install`
 
 2. Check Cypress has been installed
 
-Within the command line run `cypress --version` and check you get something similar to
+Within the command line run `yarn cypress --version` and check you get something similar to
 ```
 Cypress package version: 9.5.4
 Cypress binary version: 9.5.4
